@@ -1,2 +1,2 @@
-# Rascunho
-Rascunho do trabalho de GCS
+Grupo: 
+Classes: Departamento, Item, Usuario, Main, App, Pedido
